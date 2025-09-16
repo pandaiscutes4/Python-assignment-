@@ -1,0 +1,12 @@
+a=int(input("Enter a value : "))
+b=int(input("Enter a value :  "))
+a=float(a)
+b=float(b)
+addition= a+b
+substraction = a-b
+multiplication = a*b
+division = a/b
+print("addition = ", addition)
+print("substraction = ", substraction)
+print("mutiplication = ", multiplication)
+print("division = ", division)
